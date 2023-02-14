@@ -2498,7 +2498,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "id"
+							"name": "id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2506,7 +2507,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "name"
+							"name": "name",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2514,7 +2516,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "type"
+							"name": "type",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2522,7 +2525,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "size"
+							"name": "size",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2530,7 +2534,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "uploadUserId"
+							"name": "uploadUserId",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2538,7 +2543,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "folderId"
+							"name": "folderId",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2546,7 +2552,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "createdAt"
+							"name": "createdAt",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2554,7 +2561,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNBBqMh+qAA="
 							},
-							"name": "updatedAt"
+							"name": "updatedAt",
+							"type": ""
 						}
 					]
 				},
@@ -2631,7 +2639,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNRQjsjSjeA="
 							},
-							"name": "id"
+							"name": "id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2639,7 +2648,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNRQjsjSjeA="
 							},
-							"name": "name"
+							"name": "name",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2647,7 +2657,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNRQjsjSjeA="
 							},
-							"name": "path"
+							"name": "path",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2655,7 +2666,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNRQjsjSjeA="
 							},
-							"name": "createdAt"
+							"name": "createdAt",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2663,7 +2675,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNRQjsjSjeA="
 							},
-							"name": "updatedAt"
+							"name": "updatedAt",
+							"type": ""
 						}
 					]
 				},
@@ -2681,7 +2694,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNlLG8kk78M="
 							},
-							"name": "id"
+							"name": "id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2689,7 +2703,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGLNlLG8kk78M="
 							},
-							"name": "FileCount"
+							"name": "FileCount",
+							"type": ""
 						}
 					]
 				},
@@ -2723,7 +2738,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBnD6dewJbw="
 							},
-							"name": "fileId"
+							"name": "fileId",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2731,7 +2747,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBnD6dewJbw="
 							},
-							"name": "playtime"
+							"name": "playtime",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2739,7 +2756,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBnD6dewJbw="
 							},
-							"name": "singer"
+							"name": "singer",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2747,7 +2765,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBnD6dewJbw="
 							},
-							"name": "album"
+							"name": "album",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2755,7 +2774,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBnD6dewJbw="
 							},
-							"name": "publishAt"
+							"name": "publishAt",
+							"type": ""
 						}
 					]
 				},
@@ -2773,7 +2793,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBn3wdgQin0="
 							},
-							"name": "fileId"
+							"name": "fileId",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2781,7 +2802,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBn3wdgQin0="
 							},
-							"name": "cameraModel"
+							"name": "cameraModel",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2789,7 +2811,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBn3wdgQin0="
 							},
-							"name": "imageSize"
+							"name": "imageSize",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2797,7 +2820,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBn3wdgQin0="
 							},
-							"name": "fLength"
+							"name": "fLength",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2805,7 +2829,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGGMBn3wdgQin0="
 							},
-							"name": "fNumber"
+							"name": "fNumber",
+							"type": ""
 						}
 					]
 				}
