@@ -1,4 +1,7 @@
-# Chapter 03 - 통합 데이터모델
+# Chapter 03 - 데이터모델
+
+
+## 데이터모델에는 어떤 문제점 들이 있을까?
 
  Command Model과 Query Model은 다른 Domain Model을 사용합니다. 
 
